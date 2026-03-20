@@ -16,7 +16,7 @@ This project presents an interactive Excel dashboard analyzing global population
 - Interactive filters for continent and country selection
 
 ## Dashboard Preview
-![Dashboard](DashboardPreview.png)
+![Dashboard]()
 
 ## Key Insights
 - Asia contributes the largest share of the global population
